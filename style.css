@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+
+ .texto{
+    display: inline-block;
+    justify-content: end;
+    max-width: 50px;
+    padding-left: 50px;
+}
